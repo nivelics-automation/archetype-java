@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.nivelics.commons.helpers.web"},{"l":"com.nivelics.commons.methods.web"},{"l":"com.nivelics.commons.methods.web.drupal"},{"l":"com.nivelics.commons.methods.web.drupal.contenido"},{"l":"com.nivelics.commons.utils"}]
